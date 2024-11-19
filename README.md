@@ -7,7 +7,7 @@ This C++ exe considers the input in string format.
 For example, if you write the chemical formula of benzene in the executable output, C6H6, it will generate the molecular formula of benzene. <br />
 
 **Usage details:** <br /><br />
- **Step-1:** Double-click the C++ executable 'mol_wt.exe'. This will appear:<br /><br />
+ **Step-1:** Double-click the C++ executable '**mol wt.exe**'. This will appear:<br /><br />
  ![image](https://github.com/user-attachments/assets/674c987d-8ecd-42b7-9b4f-124e367acce6)<br /><br /><br />
 
  **Step-2:** Enter the molecular formula. let's use benzene, C6H6 in the executable and press **Enter**.<br /><br />
