@@ -20,4 +20,4 @@ For example, if you write the chemical formula of benzene in the executable outp
 
 --------------
 Dr. Suvojit Hazra.<br />
-dated, 18th November, 2024.
+(C) 2015-2025.
