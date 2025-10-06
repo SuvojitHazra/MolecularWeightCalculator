@@ -16,8 +16,3 @@ For example, if you write the chemical formula of benzene in the executable outp
  **Step-3:** This program will output the molecular weight like as following:<br /><br />
 ![image](https://github.com/user-attachments/assets/9b6d7ed0-9357-4182-8015-c5f9fcead2a3)<br /><br /><br />
 
-
-
---------------
-Dr. Suvojit Hazra.<br />
-(C) 2015-2025.
